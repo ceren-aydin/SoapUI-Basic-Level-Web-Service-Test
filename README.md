@@ -5,9 +5,7 @@ Bu projede SoapUI ile SOAP Web Servis testi yapılmıştır. Bu test için http:
 SoapUI, Web Servislerini test etmek için kullanılan bir araçtır; bunlar SOAP Web Servisleri olabileceği gibi RESTful Web Servisleri veya HTTP tabanlı servisler de olabilir. Fonksiyonel Test, Performans Testi, Birlikte Çalışabilirlik Testi, Regresyon Testi ve çok daha fazlası yapılabilir.
 
 
-
-https://github.com/ceren-aydin/SoapUI-Basic-Level-Web-Service-Test/assets/74559017/f8109743-2f88-4001-ae9f-92ec087701cf
-
+https://github.com/ceren-aydin/SoapUI-Basic-Level-Web-Service-Test/assets/74559017/8f06abb1-6fa8-40b7-82cf-e2a96c63f87d
 
 
 # Proje Adımları
